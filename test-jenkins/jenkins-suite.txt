@@ -13,3 +13,12 @@ testCase4
 
 testCase5
     log    testCase5
+
+testCase6
+    log    testCase6
+
+testCase7
+    log    testCase7
+
+testCase8
+    log    testCase8
