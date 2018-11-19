@@ -1,0 +1,15 @@
+*** Test Cases ***
+testCase1
+    log    testCase1
+
+testCase2
+    log    testCase2
+
+testCase3
+    log    testCase3
+
+testCase4
+    log    testCase4
+
+testCase5
+    log    testCase5
